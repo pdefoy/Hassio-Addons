@@ -18,7 +18,7 @@
   },
   "ports_description": {
     "8888/tcp": "The port to control pigpio"
-  }
+  },
   "options": {
     "Step1": 30,
     "Step2": 50,
@@ -33,6 +33,6 @@
     "Step3": "int(0,255)",
     "Step4": "int(0,255)",
     "Step5": "int(0,255)",
-    "Create a Fan Speed entity in Home Assistant": "bool",
+    "Create a Fan Speed entity in Home Assistant": "bool"
   }
 }
