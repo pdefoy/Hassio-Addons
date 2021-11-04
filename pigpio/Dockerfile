@@ -34,4 +34,5 @@ RUN echo "/usr/local/lib" > /etc/ld.so.conf && ldconfig
 ENTRYPOINT [ "/init" ]
 CMD []
 COPY root /
-
+COPY fan.py /
+CMD [ "python3 fan.py" ]
