@@ -10,7 +10,7 @@ Wraps the C control lib [pigpio](https://github.com/joan2937/pigpio) in a Hass.i
 ![Supports i386 Architecture][i386-badge]
 
 [![Install on my Home Assistant][install-badge]][install-url]
-[![Donate][donation-badge]][donation-url]
+
 
 ## Security
 
@@ -26,5 +26,4 @@ It accesses `/dev/mem` on the host and also has full access to the raw io data.
 [stage-badge]: https://img.shields.io/badge/Addon%20stage-stable-green.svg?style=for-the-badge
 
 [install-badge]: https://img.shields.io/badge/Install%20on%20my-Home%20Assistant-41BDF5?logo=home-assistant&style=for-the-badge
-[donation-badge]: https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white
-[donation-url]: https://www.buymeacoffee.com/Poeschl
+
