@@ -1,8 +1,8 @@
 {
-  "name": "pigpio",
-  "version": "1.4.0",
-  "slug": "pigpio",
-  "description": "Control your pwm leds with pigpio on Hass.io",
+  "name": "pigpio-fan",
+  "version": "0.1",
+  "slug": "pigpio-fan",
+  "description": "Control your pwm fan with pigpio on Hass.io",
   "url": "https://github.com/pdefoy/Hassio-Addons/tree/master/pigpio",
   "arch": [
     "armhf",
