@@ -35,4 +35,5 @@ ENTRYPOINT [ "/init" ]
 CMD []
 COPY root /
 COPY fan.py /
+COPY run.sh /
 CMD [ "/run.sh" ]
