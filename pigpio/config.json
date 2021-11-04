@@ -19,4 +19,16 @@
   "ports_description": {
     "8888/tcp": "The port to control pigpio"
   }
+  "options": {
+    "LowRange": 130,
+    "MediumRange": 140,
+    "HighRange": 150,
+    "Create a Fan Speed entity in Home Assistant": false,
+  },
+  "schema": {
+    "LowRange": "int(0,255)",
+    "MediumRange": "int(0,255)",
+    "HighRange": "int(0,255)",
+    "Create a Fan Speed entity in Home Assistant": "bool",
+  }
 }
