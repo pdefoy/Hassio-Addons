@@ -24,7 +24,7 @@
     "Step2": 50,
     "Step3": 60,
     "Step4": 70,
-    "Step5": 75.
+    "Step5": 75,
     "Create a Fan Speed entity in Home Assistant": false
   },
   "schema": {
