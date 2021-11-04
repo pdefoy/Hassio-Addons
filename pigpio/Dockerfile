@@ -35,4 +35,3 @@ ENTRYPOINT [ "/init" ]
 CMD []
 COPY root /
 COPY fan.py /
-CMD [ "python3 fan.py" ]
