@@ -1,0 +1,11 @@
+name: "Linux Command line"
+description: "Linux command line"
+version: "1.0.0"
+slug: "pdefoy_linux"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
